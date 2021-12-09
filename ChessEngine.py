@@ -27,6 +27,7 @@ class GameState():
         # self.checks=[]
         self.checkMate=False
         self.staleMate=False
+        self.lolo= False
 
 
 
